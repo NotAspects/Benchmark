@@ -1,4 +1,6 @@
 # Before/After - Benchmark 
+[![Header](http://store-images.s-microsoft.com/image/apps.39482.14323825915058581.8c142ff2-a2db-46ff-b284-5751722cdfb4.2bac998f-0eb6-4db8-986c-c4fcaec4dbfa "Header")](https://twitter.com/Dra3fcs)
+
 Together with the Nexus team, we did some **benchmarks** to show the difference between a non-optimised `Windows (Bios/Drivers/Pilots/Windows)` and an optimised `Windows (Bios/Drivers/Pilots/Windows)`.
 
 <details><summary>Tools and Software</summary>
@@ -70,3 +72,6 @@ Voici la `configuration` utlisé pendant le benchmark :
 </details>
 
 <details><summary>Analysis and Result</summary>
+
+[![Header](https://everblack.xyz/img/oc.png "Header")](https://everblack.xyz/img/oc.png)  
+</details>
