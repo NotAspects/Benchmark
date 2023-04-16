@@ -73,5 +73,5 @@ Voici la `configuration` utlisé pendant le benchmark :
 
 <details><summary>Analysis and Result</summary>
 
-[![Header](https://everblack.xyz/img/oc.png "Header")](https://everblack.xyz/img/oc.png)  
+[![Header](https://i.imgur.com/0lmSTtN.png "Header")](https://everblack.xyz/img/oc.png)  
 </details>
